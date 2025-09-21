@@ -16,9 +16,11 @@
 
 - S. Liang, Z. Zhou, P. Huang, J. Fu, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” Advanced Science, p. e05456, 2025. (IF = 14.1)
 
+
 #### Patents and Software Copyrights
 
 - Colorectal polyp detection software V1.0 based on colonoscopic images. (2022SR0993886)
+
 
 #### Submitted Papers
 
