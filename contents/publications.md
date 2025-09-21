@@ -22,4 +22,10 @@
 
 #### Submitted Papers
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q. Niu. LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>Rej :)</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- J. Fu, S. Liang, P. Zhou, W. Li, C. Ma, K. Wang, K. Chen, S. Lin, Z. Li, Y. Wang, and Y. Guo, “ColoDiff: Integrating dynamic consistency with content awareness for colonoscopy video generation,” IEEE Transactions on Medical Imaging. (Submitted)
+
+- P. Huang, L. Liu, B. Guo, S. Liang, J. Fu, Z. Zhou, Y. Wang, and Y. Guo, “Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model,” Nature Medicine. (Under review)
+
+- W. Li, S. Liang, J. Fu, S. Zhou, Y. Guo, Q. Tao, and Y. Wang, “SD-CSDT: Single-domain-based content and style disentanglement constrained by mutual information for domain-generalizable medical image segmentation,” IEEE Transactions on Neural Networks and Learning Systems. (Under review)
+
+- K. Wang, J. Fu, Y. Zhong, Y. Zhang, L. Ma, J. Hu, M. Cai, W. Qin, X. Ma, P. Zhou, and W. Chen, “Assessment and management of gastrointestinal fistulas following upper gastrointestinal tract tunnel endoscopy,” Surgical Endoscopy. (Under review)
