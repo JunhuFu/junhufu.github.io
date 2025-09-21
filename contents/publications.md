@@ -10,7 +10,7 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
-- <strong>J. Fu<strong>, K. Chen, Q. Dou, Y. Gao, Y. He, P. Zhou, S. Lin, Y. Wang, and Y. Guo, “IPNet: An interpretable network with progressive loss for whole-stage colorectal disease diagnosis,” <strong>IEEE Transactions on Medical Imaging<strong>, vol 44, no. 2, pp. 789-800, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684448)
+- <strong>J. Fu<strong>, K. Chen, Q. Dou, Y. Gao, Y. He, P. Zhou, S. Lin, Y. Wang, and Y. Guo, “IPNet: An interpretable network with progressive loss for whole-stage colorectal disease diagnosis,” <strong>IEEE Transactions on Medical Imaging</strong>, vol 44, no. 2, pp. 789-800, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684448)
 
 
 
