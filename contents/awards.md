@@ -1,16 +1,22 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
+- Outstanding Graduate of Shanghai; 2021.
 
-- National Scholarship for Graduate Student, 2024.
+- Chinese National Scholarship; 2019.
 
-- First-Prize Scholarship (CUMT), 2024.
+- First place in algorithm track, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024); 2024.
 
-- First-Prize Scholarship (CUMT), 2023.
+- Second prize in algorithm track, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
-- Freshman Scholarship (CUMT), 2022.
+- Third prize in research report competition, organized by the Artificial Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
 
-- Outstanding Graduation Project Award (Jiangsu Province), 2022.
+- Served as monitor during undergraduate period and was awarded the Outstanding Student Leader Pioneer of Fudan University; 2019.
 
-- First-Prize Enterprise Scholarship (CUMT), 2020.
+- Outstanding Student of Fudan University; 2018, 2020, 2022, 2023.
 
-- First-Prize Scholarship (CUMT), 2019.
+- Fudan University Corporate-Named Scholarship; 2020, 2023, 2024.
+
+- First-class Scholarship for Outstanding Graduate Students of Fudan University; 2022, 2023, 2024.
+
+- First-class Scholarship for Outstanding Undergraduate Students of Fudan University; 2020.
+
+- Third place for Men’s 200m and Fourth place for 4×100m relay in College Sports Meeting; 2021.
