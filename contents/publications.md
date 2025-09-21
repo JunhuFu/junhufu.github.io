@@ -12,7 +12,7 @@
 
 - <strong>J. Fu</strong>, K. Chen, Q. Dou, Y. Gao, Y. He, P. Zhou, S. Lin, Y. Wang, and Y. Guo, “IPNet: An interpretable network with progressive loss for whole-stage colorectal disease diagnosis,” <strong>IEEE Transactions on Medical Imaging</strong>, vol 44, no. 2, pp. 789-800, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684448)
 
-
+- <strong>J. Fu</strong>, Y. Gao, P. Zhou, Y. Huang, J. Jiao, S. Lin, Y. Wang, and Y. Guo, “D<sup>2polyp-Net: A cross-modal space-guided network for real-time colorectal polyp detection and diagnosis,” Biomedical Signal Processing and Control, vol 91, p. 105934, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684448)
 
 
 #### Submitted
