@@ -14,7 +14,7 @@
 
 - Y. Gao, <strong>J. Fu</strong>, Y. Guo, and Y. Wang, “G-T correcting: An improved training of image segmentation under noisy labels,” <strong>Medical & Biological Engineering & Computing</strong>, vol 62, pp. 3781-3799, 2024. [[Paper]](https://link.springer.com/article/10.1007/s11517-024-03170-4)
 
-- S. Liang, Z. Zhou, P. Huang, <strong>J. Fu</strong>, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” <strong>Advanced Science</strong>, p. e05456, 2025. [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202505456)
+- S. Liang, Z. Zhou, P. Huang, <strong>J. Fu</strong>, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” <strong>Advanced Science</strong>, p. e05456, 2025. [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202505456) [[Code]](https://github.com/lllsssyyyy/SURF)
 
 
 #### Patents and Software Copyrights
