@@ -9,7 +9,7 @@ He is currently a Ph.D. Candidate in the College of Biomedical Engineering at Fu
 Email: jhfu21@m.fudan.edu.cn
 
 #### Education
-Ph.D. Candidate, Biomedical Engineering, 2021—2025.\
+Ph.D. Candidate, Biomedical Engineering, 2021—2026 (Expected).\
 B.S., Electronic Engineering, 2017—2021.
 
 #### Research Interests
