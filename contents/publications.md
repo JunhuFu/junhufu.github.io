@@ -24,10 +24,12 @@
 
 #### Submitted Papers
 
-- <strong>J. Fu</strong>, S. Liang, P. Zhou, W. Li, C. Ma, K. Wang, K. Chen, S. Lin, Z. Li, Y. Wang, and Y. Guo, “ColoDiff: Integrating dynamic consistency with content awareness for colonoscopy video generation,” <strong>IEEE Transactions on Medical Imaging</strong>. (Submitted)
+- <strong>J. Fu</strong>, S. Liang, P. Zhou, W. Li, C. Ma, K. Wang, K. Chen, S. Lin, Z. Li, Y. Wang, and Y. Guo, “ColoDiff: Integrating dynamic consistency with content awareness for colonoscopy video generation,” <strong>IEEE Transactions on Medical Imaging</strong>. (Under review)
 
-- P. Huang, L. Liu, B. Guo, S. Liang, <strong>J. Fu</strong>, Z. Zhou, Y. Wang, and Y. Guo, “Diff-CXR: Report-to-CXR generation through a disease-knowledge enhanced diffusion model,” <strong>Nature Medicine</strong>. (Under review)
+- P. Huang, L. Liu, B. Guo, S. Liang, <strong>J. Fu</strong>, Z. Zhou, Y. Wang, and Y. Guo, “UniMedDiff: Universal knowledge-enhanced diffusion model for medical image generation from clinical reports,” <strong>Nature Computational Science</strong>. (Under review)
 
 - W. Li, S. Liang, <strong>J. Fu</strong>, S. Zhou, Y. Guo, Q. Tao, and Y. Wang, “SD-CSDT: Single-domain-based content and style disentanglement constrained by mutual information for domain-generalizable medical image segmentation,” <strong>IEEE Transactions on Neural Networks and Learning Systems</strong>. (Under review)
 
-- K. Wang, <strong>J. Fu</strong>, Y. Zhong, Y. Zhang, L. Ma, J. Hu, M. Cai, W. Qin, X. Ma, P. Zhou, and W. Chen, “Assessment and management of gastrointestinal fistulas following upper gastrointestinal tract tunnel endoscopy,” <strong>Surgical Endoscopy</strong>. (Under review)
+- C. Ma, J. Jiao, S. Liang, <strong>J. Fu</strong>, Q. Wang, Z. Li, Y. Wang, and Y. Guo, “TinyUSFM: Towards compact and efficient ultrasound foundation models,” <strong>IEEE Journal of Biomedical and Health Informatics</strong>. (Under review) [[Paper]](https://arxiv.org/abs/2510.19239)
+
+- K. Wang, <strong>J. Fu</strong>, Y. Zhong, Y. Zhang, L. Ma, J. Hu, M. Cai, W. Qin, X. Ma, P. Zhou, and W. Chen, “Assessment and management of gastrointestinal fistulas following upper gastrointestinal tract tunnel endoscopy,” <strong>Surgical Endoscopy</strong>. (Submitted)
