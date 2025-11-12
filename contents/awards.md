@@ -3,9 +3,9 @@
 
 - Chinese National Scholarship; 2019.
 
-- First place in algorithm track, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024); 2024.
+- Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024); 2024.
 
-- Second prize in algorithm track, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
+- Second prize in algorithm challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
 - Third prize in research report competition, organized by the Artificial Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
 
