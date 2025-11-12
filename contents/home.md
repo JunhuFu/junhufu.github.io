@@ -13,5 +13,5 @@ Ph.D. Candidate, Biomedical Engineering, 2021—2026 (Expected).\
 B.S., Electronic Engineering, 2017—2021.
 
 #### Research Interests
-Deep Learning, Medical Image Analysis.
+Machine Learning, Medical Image Analysis.
 
