@@ -7,7 +7,7 @@
 
 - Second prize in algorithm challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
-- Third prize in research report competition, organized by the Artificial Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
+- Third prize in research report competition, organized by the Machine Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
 
 - Served as monitor during undergraduate period and was awarded the Outstanding Student Leader Pioneer of Fudan University; 2019.
 
