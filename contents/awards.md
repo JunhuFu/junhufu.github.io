@@ -1,15 +1,15 @@
 
-- Outstanding Graduate of Shanghai; 2021.
+- <strong>Outstanding Graduate of Shanghai</strong>; 2021.
 
-- Chinese National Scholarship; 2019.
+- <strong>Chinese National Scholarship</strong>; 2019.
 
-- Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024); 2024.
+- <strong>Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
 
 - Second prize in algorithm challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
 - Third prize in research report competition, organized by the Machine Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
 
-- Served as monitor during undergraduate period and was awarded the Outstanding Student Leader Pioneer of Fudan University; 2019.
+- Served as monitor during undergraduate period and was awarded <strong>the Outstanding Student Leader Pioneer of Fudan University</strong>; 2019.
 
 - Outstanding Student of Fudan University; 2018, 2020, 2022, 2023.
 
