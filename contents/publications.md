@@ -12,7 +12,7 @@
 
 - P. Huang, <strong>J. Fu</strong>, B. Guo, Z. Li, Y. Wang, and Y. Guo, “VAP-Diffusion: Enriching descriptions with MLLMs for enhanced medical image generation,” <strong>2025 International Conference on Medical Image Computing and Computer Assisted Intervention (2025 MICCAI)</strong>. [[Paper]](https://arxiv.org/abs/2506.23641) [[Code]](https://github.com/YiBaiHP/VAP-Diffusion)
 
-- S. Liang, <strong>J. Fu</strong>, W. Li, C. Ma, Y. Wang, and Y. Guo, “MedFMIT: A foundation model-driven multimodal fusion method for image-text disease diagnosis,” <strong>2025 International Conference of the IEEE Engineering in Medicine and Biology Society (2025 EMBC)</strong>.
+- S. Liang, <strong>J. Fu</strong>, W. Li, C. Ma, Y. Wang, and Y. Guo, “MedFMIT: A foundation model-driven multimodal fusion method for image-text disease diagnosis,” <strong>2025 International Conference of the IEEE Engineering in Medicine and Biology Society (2025 EMBC)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11252735)
 
 
 #### Other Papers
