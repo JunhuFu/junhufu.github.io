@@ -8,7 +8,7 @@
 
 - <strong>J. Fu</strong>, S. Lin, P. Zhou, Y. Guo, Y. Wang, “M<sup>3</sup>ResU-Net: A deep residual network for multi-center colorectal polyp segmentation based on multi-scale learning and attention mechanism,” <strong>Physics in Medicine and Biology</strong>, vol. 67, no. 20, p. 205005, 2022. [[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/ac92bb)
 
-- <span style="color:#666666"><strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to interpretability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (2026 MICCAI)</strong>. (Minor revision)</span>
+- <span style="color:#666666"><strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to interpretability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (2026 MICCAI)</strong>. (Under review)</span>
 
 - S. Liang, Z. Zhou, P. Huang, <strong>J. Fu</strong>, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” <strong>Advanced Science</strong>, p. e05456, 2025. [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202505456) [[Code]](https://github.com/lllsssyyyy/SURF)
 
