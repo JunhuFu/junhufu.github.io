@@ -16,7 +16,7 @@
 
 - S. Liang, <strong>J. Fu</strong>, W. Li, C. Ma, Y. Wang, and Y. Guo, “MedFMIT: A foundation model-driven multimodal fusion method for image-text disease diagnosis,” <strong>2025 International Conference of the IEEE Engineering in Medicine and Biology Society (2025 EMBC)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11252735)
 
-- C. Ma, Y. Li, <strong>J. Fu</strong>, S. Liang, Y. Wang, and Y. Guo, “Unified ultrasound intelligence toward an end-to-end agentic system,” <strong>2026 International Symposium on Biomedical Imaging (ISBI 2026)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11252735)
+- C. Ma, Y. Li, <strong>J. Fu</strong>, S. Liang, Y. Wang, and Y. Guo, “Unified ultrasound intelligence toward an end-to-end agentic system,” <strong>2026 International Symposium on Biomedical Imaging (ISBI 2026)</strong>.
 
 
 #### Other Papers
