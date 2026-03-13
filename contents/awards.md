@@ -5,6 +5,8 @@
 
 - <strong>Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
 
+- Runner-up in algorithm challenge, 2026 International Symposium on Biomedical Imaging (ISBI 2026); 2026.
+
 - Second prize in algorithm challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
 - Third prize in research report competition, organized by the Machine Intelligence Committee of the Shanghai Society for Biomedical Engineering; 2024.
