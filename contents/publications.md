@@ -8,13 +8,13 @@
 
 - <strong>J. Fu</strong>, S. Lin, P. Zhou, Y. Guo, Y. Wang, “M<sup>3</sup>ResU-Net: A deep residual network for multi-center colorectal polyp segmentation based on multi-scale learning and attention mechanism,” <strong>Physics in Medicine and Biology</strong>, vol. 67, no. 20, p. 205005, 2022. [[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/ac92bb)
 
-- <span style="color:#666666"><strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to interpretability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (2026 MICCAI)</strong>. (Under review)</span>
+- <span style="color:#666666"><strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to interpretability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</strong>. (Under review)</span>
 
 - S. Liang, Z. Zhou, P. Huang, <strong>J. Fu</strong>, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” <strong>Advanced Science</strong>, p. e05456, 2025. [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202505456) [[Code]](https://github.com/lllsssyyyy/SURF)
 
-- P. Huang, <strong>J. Fu</strong>, B. Guo, Z. Li, Y. Wang, and Y. Guo, “VAP-Diffusion: Enriching descriptions with MLLMs for enhanced medical image generation,” <strong>2025 International Conference on Medical Image Computing and Computer Assisted Intervention (2025 MICCAI)</strong>. [[Paper]](https://arxiv.org/abs/2506.23641) [[Code]](https://github.com/YiBaiHP/VAP-Diffusion)
+- P. Huang, <strong>J. Fu</strong>, B. Guo, Z. Li, Y. Wang, and Y. Guo, “VAP-Diffusion: Enriching descriptions with MLLMs for enhanced medical image generation,” <strong>2025 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2025)</strong>. [[Paper]](https://arxiv.org/abs/2506.23641) [[Code]](https://github.com/YiBaiHP/VAP-Diffusion)
 
-- S. Liang, <strong>J. Fu</strong>, W. Li, C. Ma, Y. Wang, and Y. Guo, “MedFMIT: A foundation model-driven multimodal fusion method for image-text disease diagnosis,” <strong>2025 International Conference of the IEEE Engineering in Medicine and Biology Society (2025 EMBC)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11252735)
+- S. Liang, <strong>J. Fu</strong>, W. Li, C. Ma, Y. Wang, and Y. Guo, “MedFMIT: A foundation model-driven multimodal fusion method for image-text disease diagnosis,” <strong>2025 International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2025)</strong>. [[Paper]](https://ieeexplore.ieee.org/abstract/document/11252735)
 
 - C. Ma, Y. Li, <strong>J. Fu</strong>, S. Liang, Y. Wang, and Y. Guo, “Unified ultrasound intelligence toward an end-to-end agentic system,” <strong>2026 International Symposium on Biomedical Imaging (ISBI 2026)</strong>.
 
