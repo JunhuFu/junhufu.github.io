@@ -1,7 +1,7 @@
 
-- <strong>Outstanding Graduate of Shanghai</strong>; 2021.
+- <strong>Outstanding Graduate of Shanghai (Top 5%)</strong>; 2021, 2026.
 
-- <strong>Chinese National Scholarship</strong>; 2019.
+- <strong>Chinese National Scholarship(Top 0.2%)</strong>; 2019.
 
 - <strong>Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
 
