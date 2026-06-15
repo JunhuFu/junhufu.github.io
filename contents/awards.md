@@ -3,6 +3,8 @@
 
 - <strong>Chinese National Scholarship (Top 0.2%)</strong>; 2019.
 
+- <strong>Outstanding Doctoral Scholar of Fudan University</strong>; 2026.
+
 - <strong>Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
 
 - Runner-up in algorithm challenge, 2026 International Symposium on Biomedical Imaging (ISBI 2026); 2026.
