@@ -4,11 +4,11 @@
 
 - <strong>J. Fu</strong>, K. Chen, Q. Dou, Y. Gao, Y. He, P. Zhou, S. Lin, Y. Wang, and Y. Guo, “IPNet: An interpretable network with progressive loss for whole-stage colorectal disease diagnosis,” <strong>IEEE Transactions on Medical Imaging</strong>, vol 44, no. 2, pp. 789-800, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10684448)
 
+- <strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to reliability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</strong>. (Accepted) [[Paper]](https://arxiv.org/abs/2604.26232)
+
 - <strong>J. Fu</strong>, Y. Gao, P. Zhou, Y. Huang, J. Jiao, S. Lin, Y. Wang, and Y. Guo, “D<sup>2</sup>polyp-Net: A cross-modal space-guided network for real-time colorectal polyp detection and diagnosis,” <strong>Biomedical Signal Processing and Control</strong>, vol 91, p. 105934, 2024. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1746809423013678)
 
 - <strong>J. Fu</strong>, S. Lin, P. Zhou, Y. Guo, Y. Wang, “M<sup>3</sup>ResU-Net: A deep residual network for multi-center colorectal polyp segmentation based on multi-scale learning and attention mechanism,” <strong>Physics in Medicine and Biology</strong>, vol. 67, no. 20, p. 205005, 2022. [[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/ac92bb)
-
-- <span style="color:#666666"><strong>J. Fu</strong>, K. Chen, W. Guo, S, Liang, J. Xu, C. Ma, K. Wang, S. Lin, Z. Li, Y. Wang, Y. Guo, and S. Li, “DepthPilot: From controllability to interpretability in colonoscopy video generation,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</strong>. (Under review)</span> [[Paper]](https://arxiv.org/abs/2604.26232)
 
 - S. Liang, Z. Zhou, P. Huang, <strong>J. Fu</strong>, J. Jiao, Y. Huang, S. Zhou, G. Wang, Y. Wang, and Y. Guo, “SURF: A self-supervised deep learning method for reference-free deconvolution in spatial transcriptomics,” <strong>Advanced Science</strong>, p. e05456, 2025. [[Paper]](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202505456) [[Code]](https://github.com/lllsssyyyy/SURF)
 
@@ -23,11 +23,13 @@
 
 - Y. Gao, <strong>J. Fu</strong>, Y. Wang, and Y. Guo, “Typicality- and instance-dependent label noise-combating: A novel framework for simulating and combating real-world noisy labels for endoscopic polyp classification,” <strong>Visual Computing for Industry, Biomedicine, and Art</strong>, vol. 7, p. 10, 2024. [[Paper]](https://link.springer.com/article/10.1186/s42492-024-00162-x)
 
-- Y. Gao, <strong>J. Fu</strong>, Y. Guo, and Y. Wang, “G-T correcting: An improved training of image segmentation under noisy labels,” <strong>Medical & Biological Engineering & Computing</strong>, vol 62, pp. 3781-3799, 2024. [[Paper]](https://link.springer.com/article/10.1007/s11517-024-03170-4)
+- Y. Gao, <strong>J. Fu</strong>, Y. Guo, and Y. Wang, “G-T correcting: An improved training of image segmentation under noisy labels,” <strong>Medical & Biological Engineering & Computing</strong>, vol. 62, pp. 3781-3799, 2024. [[Paper]](https://link.springer.com/article/10.1007/s11517-024-03170-4)
+
+- J. Gao, J. Xu, <strong>J. Fu</strong>, Q. Wang, S. Lin, Y. Guo, and Y. Wang, “GPS-SAM: Text-driven grounded polyp segmentation SAM,” <strong>Neurocomputing</strong>, vol. 696, p. 134063, 2026. [[Paper]](https://www.sciencedirect.com/science/article/pii/S092523122601461X)
 
 - C. Ma, J. Jiao, S. Liang, <strong>J. Fu</strong>, Q. Wang, Z. Li, Y. Wang, and Y. Guo, “TinyUSFM: Towards compact and efficient ultrasound foundation models,” <strong>IEEE Journal of Biomedical and Health Informatics</strong>, 2026. (Accepted) [[Paper]](https://ieeexplore.ieee.org/document/11457236)
 
-- <span style="color:#666666">J. Gao, J. Xu, <strong>J. Fu</strong>, Q. Wang, S. Lin, Y. Guo, and Y. Wang, “GPS-SAM: Text-driven grounded polyp segmentation SAM,” <strong>Neurocomputing</strong>. (Minor revision)</span>
+- F. Yin, J. Xu, Q. Zhang, Y. Zhang, <strong>J. Fu</strong>, Z. Yu, S. Zhang, and J. Yu, “Learning geometry-aware bundles with spectral heat kernel diffusion for fMRI-based brain disease diagnosis,” <strong>2026 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2026)</strong>. (Accepted)
 
 - <span style="color:#666666">J. Xu, Q. Yang, <strong>J. Fu</strong>, J. Gao, W. Li, Z. Li, Y. Guo, and Y. Wang, “SAMatch: Prompt-centric semi-supervised medical image segmentation,” <strong>IEEE Transactions on Image Processing</strong>. (Under review)</span>
 
