@@ -5,22 +5,22 @@
 
 - <strong>Outstanding Doctoral Scholar of Fudan University</strong>; 2026.
 
-- <strong>Champion in algorithm challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
+- <strong>Champion in modeling challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
 
-- Runner-up in algorithm challenge, 2026 International Symposium on Biomedical Imaging (ISBI 2026); 2026.
+- Runner-up in modeling challenge, 2026 International Symposium on Biomedical Imaging (ISBI 2026); 2026.
 
-- Second prize in algorithm challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
+- Second prize in modeling challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
 
 - Third prize in research report competition, organized by Shanghai Biomedical Engineering Society; 2024.
 
-- Served as monitor during undergraduate period and was awarded <strong>the Outstanding Student Leader Pioneer of Fudan University</strong>; 2019.
+- Served as monitor during undergraduate period and was awarded <strong>the Outstanding Student Leader Pioneer</strong>; 2019.
 
-- Outstanding Student of Fudan University; 2018, 2020, 2022, 2023.
+- Outstanding Student of University; 2018, 2020, 2022, 2023.
 
-- Fudan University Corporate-Named Scholarship; 2020, 2023, 2024.
+- Corporate-Named Scholarship of University; 2020, 2023, 2024.
 
-- First-class Scholarship for Outstanding Graduate Students of Fudan University; 2022, 2023, 2024.
+- First-class Scholarship for Outstanding Graduate Students; 2022, 2023, 2024.
 
-- First-class Scholarship for Outstanding Undergraduate Students of Fudan University; 2020.
+- First-class Scholarship for Outstanding Undergraduate Students; 2020.
 
-- Third place for Men’s 200m and Fourth place for 4×100m relay in College Sports Meeting; 2021.
+- Third place for Men’s 200m and Fourth place for 4×100m relay at College Sports Meeting; 2021.
