@@ -13,5 +13,5 @@ Ph.D., Biomedical Engineering, 2021—2026.\
 B.S., Electronic Engineering, 2017—2021.
 
 #### Research Interests
-Medical Image Analysis, Optimization models.
+Medical Image Analysis, Optimization Models.
 
