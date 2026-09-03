@@ -5,8 +5,6 @@
 
 - <strong>Outstanding Doctoral Scholar of Fudan University</strong>; 2026.
 
-- <strong>Champion in modeling challenge, 2024 International Symposium on Image Computing and Digital Medicine (ISICDM 2024)</strong>; 2024.
-
 - Runner-up in modeling challenge, 2026 International Symposium on Biomedical Imaging (ISBI 2026); 2026.
 
 - Second prize in modeling challenge, 2023 Digital Medical Technology and Application Innovation Competition (DiMTAIC 2023); 2023.
